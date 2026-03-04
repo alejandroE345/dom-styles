@@ -11,6 +11,8 @@ console.log("Script Started");
         p.style.border = "3px solid white";
     }
 
+    //Exercises
+
     // Function used to reset the text
     function resetStyle() {
         console.log("click");
