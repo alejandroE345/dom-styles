@@ -11,6 +11,7 @@ console.log("Script Started");
         p.style.border = "3px solid white";
     }
 
+    // Function used to reset the text
     function resetStyle() {
         console.log("click");
         p = document.getElementById("text");
@@ -20,7 +21,9 @@ console.log("Script Started");
         p.style.border = "";
         p.style.backgroundColor = "";
     }
+    
 
+    // Function to change the style of the text
     function changeStyle2() {
         console.log("click");
         p = document.getElementById("text");
