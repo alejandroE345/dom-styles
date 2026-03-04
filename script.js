@@ -26,7 +26,7 @@ console.log("Script Started");
     }
     
 
-    // Function to change the style of the text
+    // Function to change the style of the text a specific way
     function changeStyle2() {
         console.log("click");
         p = document.getElementById("text");
