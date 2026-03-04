@@ -20,6 +20,9 @@ console.log("Script Started");
         p.style.fontSize = "";
         p.style.border = "";
         p.style.backgroundColor = "";
+        p.style.fontFamily = "";
+        p.style.borderRadius = "";
+        p.style.textAlign = "";
     }
     
 
@@ -31,4 +34,7 @@ console.log("Script Started");
         p.innerText = "This is Style 2";
         p.style.color = "black";
         p.style.border = "4px dashed white";
+        p.style.fontFamily = "fantasy";
+        p.style.borderRadius = "3px";
+        p.style.textAlign = "center";
     }
