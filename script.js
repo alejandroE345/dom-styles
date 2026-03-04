@@ -39,4 +39,5 @@ console.log("Script Started");
         p.style.fontFamily = "fantasy";
         p.style.borderRadius = "3px";
         p.style.textAlign = "center";
+        p.style.fontSize = "20px";
     }
